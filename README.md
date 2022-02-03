@@ -1,3 +1,3 @@
-# COL106
+# Data Structures & Algorithms
 
-Course programming problems for the course COL106.
+Programming assignments and problems of the course COL106 from IIT Delhi.
